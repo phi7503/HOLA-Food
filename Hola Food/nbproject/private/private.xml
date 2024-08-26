@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/swtt/swtt/web/errormanager.jsp</file>
+            <file>file:/D:/swtt/swtt/web/update_category.jsp</file>
+            <file>file:/D:/swtt/swtt/web/add_category.jsp</file>
+            <file>file:/D:/swtt/swtt/src/java/controller/admin/AddProductServlet.java</file>
+            <file>file:/D:/swtt/swtt/web/showAllOrder.jsp</file>
+            <file>file:/D:/swtt/swtt/src/java/controller/admin/OrderDetailServlet.java</file>
+            <file>file:/D:/swtt/swtt/web/shop.jsp</file>
+            <file>file:/D:/swtt/swtt/web/manager.jsp</file>
+            <file>file:/D:/swtt/swtt/web/orderdetail.jsp</file>
+            <file>file:/D:/swtt/swtt/src/java/filter/FilterForCURD.java</file>
+            <file>file:/D:/swtt/swtt/src/java/controller/admin/UpdateProductServlet.java</file>
+            <file>file:/D:/swtt/swtt/web/add_product.jsp</file>
+            <file>file:/D:/swtt/swtt/src/java/controller/admin/ManagerServlet.java</file>
+            <file>file:/D:/swtt/swtt/web/update_product.jsp</file>
+            <file>file:/D:/swtt/swtt/web/detail.jsp</file>
+            <file>file:/D:/swtt/swtt/src/java/model/User.java</file>
+            <file>file:/D:/swtt/swtt/src/java/dal/UserDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
